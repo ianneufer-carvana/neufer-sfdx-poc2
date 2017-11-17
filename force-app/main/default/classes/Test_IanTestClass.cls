@@ -16,4 +16,12 @@ private class Test_IanTestClass {
 
         System.assertEquals(-2, result);
     }
+
+    static testMethod void multiplyIntsTest() {
+        Test.startTest();
+        Integer result = IanTestClass.multiplyInts(1,3);
+        Test.stopTest();
+
+        System.assertEquals(3, result);
+    }
 }
