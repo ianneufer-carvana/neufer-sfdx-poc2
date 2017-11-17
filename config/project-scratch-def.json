@@ -1,0 +1,13 @@
+{
+	"country": "US",
+	"edition": "Developer",
+	"orgPreferences": {
+	  "enabled": [
+		"S1DesktopEnabled"
+	  ],
+	  "disabled": []
+	},
+	"orgName": "Carvana",
+	"adminEmail": "ian.neufer@carvana.com"
+  }
+  
